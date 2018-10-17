@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-17 14:15:33</sys_created_on>
+        <sys_id>3480a784db1123001e981120399619fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_271791_iplookup_imdb_data.x_271791_iplookup.imdb_data_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_271791_iplookup">8d65d761db0123001e98112039961961</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">8d65d761db0123001e98112039961961</sys_scope>
+        <sys_security_acl display_value="x_271791_iplookup_imdb_data">f880a784db1123001e981120399619f9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3480a784db1123001e981120399619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-17 14:15:33</sys_updated_on>
+        <sys_user_role display_value="x_271791_iplookup.imdb_data_user" name="x_271791_iplookup.imdb_data_user">2880a384db1123001e981120399619a5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

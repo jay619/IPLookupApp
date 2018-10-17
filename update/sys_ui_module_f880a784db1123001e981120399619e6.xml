@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IMDB Data">7080a784db1123001e981120399619d8</application>
+        <filter/>
+        <name>IMDB Data</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_271791_iplookup.imdb_data_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-17 14:15:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f880a784db1123001e981120399619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IMDB Data</sys_name>
+        <sys_package display_value="IPLookup" source="x_271791_iplookup">8d65d761db0123001e98112039961961</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">8d65d761db0123001e98112039961961</sys_scope>
+        <sys_update_name>sys_ui_module_f880a784db1123001e981120399619e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-17 14:15:33</sys_updated_on>
+        <table>x_271791_iplookup_imdb_data</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
